@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DNosheZ
 - 👀 I’m interested in app/web development
 - 🌱 I’m currently learning Java, responsive web design & data science
-- 💞️ I’m looking to collaborate on ambicious projects that dare me to learn more than the things I learn at college and empirically
+- 💞️ I’m looking to collaborate on ambicious projects that dare me to learn more than the things I've learned at college and empirically
 - 📫 How to reach me: text me by my email in adzprojectsby@gmail.com
 
 <!---
