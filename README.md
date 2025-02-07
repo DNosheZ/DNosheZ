@@ -28,3 +28,4 @@ I am interested in joining development teams that value **technical versatility*
 
 📧 Email: adzprojectsby@gmail.com] 
 👨‍💼 Linkedin: www.linkedin.com/in/alejandro-diaz-170ab7292
+📟 Personal portfolio: https://dnoshez.github.io/
